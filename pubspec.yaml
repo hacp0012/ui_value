@@ -25,5 +25,5 @@ platforms:
 
 topics:
   - ui
-  - setState
+  - setstate
   - update
