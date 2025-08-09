@@ -1,6 +1,6 @@
 name: ui_value
 description: Simplify state management and reduce the need for multiple setState calls.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/hacp0012/ui_value
 
 environment:
